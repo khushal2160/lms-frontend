@@ -3,3 +3,11 @@
 .book-card {
   margin: 8px;
 }
+
+.book-img {
+  transition: 250ms all;
+}
+
+.book-img:hover {
+  transform: scale(1.05);
+}
